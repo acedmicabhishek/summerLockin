@@ -6,3 +6,4 @@
   - Fasm(x86)
   - Dll injection
   - python 
+  - Android studio
