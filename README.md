@@ -3,3 +3,4 @@
   - C/C++
   - Java
   - Nasm(x86)
+  - Fasm(x86)
