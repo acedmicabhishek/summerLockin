@@ -4,3 +4,5 @@
   - Java
   - Nasm(x86)
   - Fasm(x86)
+  - Dll injection
+  - python 
